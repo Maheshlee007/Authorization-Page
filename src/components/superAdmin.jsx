@@ -83,6 +83,10 @@ function SuperAdminRole() {
       {Loginheader == "SuperAdmin" && (
         <AdminReq accessReq={accesreq} handleRequest={deleterequest} />
       )}
+      <h3 className="text-white text-center">
+       
+        All copyrights reserve to @ahesh Dharapureddy
+      </h3>
     </>
   );
 }
